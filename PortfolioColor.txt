@@ -1,0 +1,12 @@
+--- Custom Template Colors ---
+light-brown #ca6908
+chrome-dark-grey rgb(64, 64, 64)
+brown-traditional #964b00
+
+
+
+
+--- Original Template Colors ---
+
+Send Button/ Menu Button Color
+#1abc9c
