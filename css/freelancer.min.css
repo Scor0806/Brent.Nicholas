@@ -7855,7 +7855,7 @@ a.text-dark:focus,a.text-dark:hover{
     cursor:pointer;
     position:relative;
     display:block;
-    max-height:40rem;
+    max-height:80rem;
     margin-bottom:30px;
     border-radius:.5rem;
     overflow:hidden
